@@ -1,0 +1,3 @@
+/home/niketan/darknet/data/images/img015.jpg
+/home/niketan/darknet/data/images/img012.jpg
+/home/niketan/darknet/data/images/img060.jpg

@@ -1,0 +1,6 @@
+classes= 1  
+train = /home/niketan/darknet/custom/train.txt
+valid = /home/niketan/darknet/custom/test.txt
+names = /home/niketan/darknet/custom/objects.names  
+backup = backup/
+
