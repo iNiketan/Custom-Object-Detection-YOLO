@@ -78,7 +78,7 @@ name file contain all labels for logos
 see the file in my project for help
 
 ################################################################
-#how to create a train.txt file
+# how to create a train.txt file
 use parsefiles.py to create it then open train.py and remove location of parsefiles.py
 #there are other ways but i came up with this and used this
 
@@ -139,7 +139,7 @@ put the darknet53 file in darknet folder
 
 
 ###############################################
-starting the fun part training
+# starting the fun part training
 also put a custom.data file in darknet
 
 from terminal run the command
@@ -155,5 +155,5 @@ after that move a copy of weights from backup/ to darknet and run
 ####################################################
 
 
-                                                                                                    niketan sahu
+                                                                                                  
 
