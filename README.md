@@ -1,6 +1,8 @@
 # Custom-Object-Detection-YOLO
 custom object detection
 
+file:///home/niketan/Pictures/predictions/Screenshot%20from%202019-10-12%2022-00-44.png
+
 # Setting up the system
 we will be using yolov3 for this project. I suggest you use linux base os it perform better for yolo but window is
 fine too. its easy on linux than on window thats all. on windows you have to download a terminal(cmd of linux) extension
