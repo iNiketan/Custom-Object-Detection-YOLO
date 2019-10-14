@@ -3,6 +3,8 @@ custom object detection
 
 ![](predicitions/Screenshot%20from%202019-10-12%2022-02-42.png)
 
+![](predicitions/Screenshot%20from%202019-10-12%2022-02-42.png)
+
 # Setting up the system
 we will be using yolov3 for this project. I suggest you use linux base os it perform better for yolo but window is
 fine too. its easy on linux than on window thats all. on windows you have to download a terminal(cmd of linux) extension
