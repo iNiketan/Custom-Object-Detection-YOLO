@@ -1,9 +1,10 @@
+in improvement process
 # Custom-Object-Detection-YOLO
-custom object detection
+custom object detection tring to delect the volwswagen logo
 
 ![](predicitions/Screenshot%20from%202019-10-12%2022-02-42.png)
 
-![](predicitions/Screenshot%20from%202019-10-12%2022-02-42.png)
+![](predicitions/Screenshot%20from%202019-10-13%2017-09-18.png)
 
 # Setting up the system
 we will be using yolov3 for this project. I suggest you use linux base os it perform better for yolo but window is
