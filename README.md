@@ -1,7 +1,7 @@
 # Custom-Object-Detection-YOLO
 custom object detection
 
-*[](predicitions/Screenshot_from_2019-10-12 22-02-42.png)
+![](predicitions/Screenshot_from_2019-10-12 22-02-42.png)
 
 # Setting up the system
 we will be using yolov3 for this project. I suggest you use linux base os it perform better for yolo but window is
