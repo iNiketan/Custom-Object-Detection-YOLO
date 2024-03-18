@@ -1,5 +1,13 @@
 # Custom-Object-Detection-YOLO
-custom object detection tring to delect the volwswagen logo
+This project explores custom object detection with YOLO (You Only Look Once), a powerful algorithm for real-time object identification. Our specific goal is to train YOLO to detect the Volkswagen logo in images.
+
+By training a custom YOLO model, we aim to achieve:
+<li>Accurate Volkswagen Logo Identification: The model will learn to distinguish the Volkswagen logo from other objects in an image.
+<li>Real-Time Performance: YOLO is known for its speed, making it suitable for applications requiring fast detection.
+
+The Potential Applications:
+<li>Automated Image Analysis: The model could be used to automatically identify Volkswagen vehicles in images or videos, streamlining tasks in various industries.
+<li>Augmented Reality Overlays: Imagine using the model to overlay information or advertisements specifically on Volkswagen logos in an AR experience.
 
 ![](predicitions/Screenshot%20from%202019-10-12%2022-02-42.png)
 
