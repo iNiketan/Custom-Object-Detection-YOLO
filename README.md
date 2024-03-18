@@ -1,4 +1,3 @@
-in improvement process
 # Custom-Object-Detection-YOLO
 custom object detection tring to delect the volwswagen logo
 
@@ -6,7 +5,7 @@ custom object detection tring to delect the volwswagen logo
 
 ![](predicitions/Screenshot%20from%202019-10-13%2017-09-18.png)
 
-# Setting up the system
+### Setting up the system
 we will be using yolov3 for this project. I suggest you use linux base os it perform better for yolo but window is
 fine too. its easy on linux than on window thats all. on windows you have to download a terminal(cmd of linux) extension
 for commands as yolo was made for/on linux.
@@ -19,7 +18,7 @@ sudo apt-get install build-essential
 sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
 sudo apt-get install libavcodec-dev libavformat-dev libswscale-d
 sudo apt-get install libopencv-dev
-# changing directory to darknet forlder
+### changing directory to darknet forlder
 cd darknet
 make
 
@@ -83,7 +82,7 @@ name file contain all labels for logos
 see the file in my project for help
 
 ################################################################
-# how to create a train.txt file
+### how to create a train.txt file
 use parsefiles.py to create it then open train.py and remove location of parsefiles.py
 #there are other ways but i came up with this and used this
 
@@ -92,7 +91,7 @@ create test.txt and put some(3) of image location in it
 now cut and paste train and test in custom
 for cfg file use yolov3.cfg in cfg folder of darknet copy that and put it inside custom
 
-# changing .cfg file
+### changing .cfg file
 Option 1: yolov3.cfg
 
 Go to the cfg directory under the Darknet directory and make a copy of yolov3.cfg:
@@ -144,7 +143,7 @@ put the darknet53 file in darknet folder
 
 
 ###############################################
-# starting the fun part training
+### starting the fun part training
 also put a custom.data file in darknet
 
 from terminal run the command
